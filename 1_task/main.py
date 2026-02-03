@@ -1,4 +1,4 @@
-text=input("Введите текс: ")
+text=input("Введите текст: ")
 lower_text = text.lower() 
 
 unik_symvol = {} 
